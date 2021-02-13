@@ -29,7 +29,7 @@ OPENCV BASICS AND MINI PROJECTS
 </p>
 <br>
 <h2>Real image<h2>
-  <img src="C:\Users\RAJ\Downloads\p1.jpg" alt="image output">
+  <img src="C:/Users/RAJ/Downloads/p1.jpg" alt="image output">
 
 </body>
 </html>
