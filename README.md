@@ -27,9 +27,6 @@ OPENCV BASICS AND MINI PROJECTS
 <li>opencv</li>
 </ul>
 </p>
-<br>
-<h2>Real image<h2>
-  <img src="C:/Users/RAJ/Downloads/p1.jpg" alt="image output">
 
 </body>
 </html>
