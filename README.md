@@ -1,6 +1,15 @@
 # playing-with-opencv
 OPENCV BASICS AND MINI PROJECTS 
-<h1>BASIC IMAGE OPERATIONS USING OPENCV</h1>
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+    <meta charset="utf-8" />
+    <title>Random Pic</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+  <h1>BASIC IMAGE OPERATIONS USING OPENCV</h1>
 <p title= BASIC IMAGE OPERATIONS>
 <ul>
 <li>Image colour conversion </li>
@@ -11,7 +20,6 @@ OPENCV BASICS AND MINI PROJECTS
 </ul>
 </p>
 
-
 <h1>library used</h1>
 <p title=library used->
 <ul>
@@ -19,6 +27,10 @@ OPENCV BASICS AND MINI PROJECTS
 <li>opencv</li>
 </ul>
 </p>
+<br>
+<h2>Real image<h2>
+  <img src="C:\Users\RAJ\Downloads\p1.jpg" alt="image output">
 
-<br>
-<br>
+</body>
+</html>
+
