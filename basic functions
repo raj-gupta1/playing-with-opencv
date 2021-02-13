@@ -1,0 +1,38 @@
+<h1>CODE FOR 5 BASIC IMAGE OPERATION</h1>
+<p title= BASIC IMAGE OPERATIONS>
+<ul>
+<li>Image colour conversion </li>
+<li>Image blurring</li>
+<li>Image conversion to edges(canny)</li>
+<li>Image dilation</li>
+<li>Image erosion</li>
+</p>
+<br>
+<br>
+<p library used->
+<ul>
+<li>numpy </li>
+<li>opencv</li>
+</p>
+<br>
+<br>
+
+import cv2
+import numpy as np
+<br>
+kernel = np.ones((5,5),np.uint8)
+path = "resources/l2.jpg"
+img = cv2.imread(path)
+imgGray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
+imgblur = cv2.GaussianBlur(img,(7,7),0)
+imgcanny = cv2.Canny(imgblur,50,50)
+imgdilation = cv2.dilate(imgcanny,kernel,iterations= 1)
+imgerosion = cv2.erode(imgdilation,kernel,iterations=1)
+<br>
+cv2.imshow("REAL",img)
+cv2.imshow("GRAY",imgGray)
+cv2.imshow("BLUR",imgblur)
+cv2.imshow("EDGES",imgcanny)
+cv2.imshow("DILATE",imgdilation)
+cv2.imshow("ERODE",imgerosion)
+cv2.waitKey(0)
