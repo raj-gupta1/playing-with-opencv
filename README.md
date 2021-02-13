@@ -4,7 +4,6 @@ OPENCV BASICS AND MINI PROJECTS
 <html lang = "en">
 <head>
     <meta charset="utf-8" />
-    <title>Random Pic</title>
     <link rel="stylesheet" href="main.css">
 </head>
 
