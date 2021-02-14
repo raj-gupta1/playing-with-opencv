@@ -7,6 +7,14 @@ OPENCV BASICS AND MINI PROJECTS
     <link rel="stylesheet" href="main.css">
 </head>
 
+<h1>library used</h1>
+<p title=library used->
+<ul>
+<li>numpy </li>
+<li>opencv</li>
+</ul>
+</p>
+
 <body>
   <h1>BASIC IMAGE OPERATIONS USING OPENCV</h1>
 <p title= BASIC IMAGE OPERATIONS>
@@ -19,11 +27,14 @@ OPENCV BASICS AND MINI PROJECTS
 </ul>
 </p>
 
-<h1>library used</h1>
-<p title=library used->
+  <h1>PHOTOSHOP FILTERS USING OPENCV</h1>
+<p title= PHOTOSHOP FILTERS >
 <ul>
-<li>numpy </li>
-<li>opencv</li>
+<li>EMBROSS FILTER</li>
+<li>FILTER</li>
+<li>FILTER</li>
+<li>FILTERn</li>
+<li>FILTER</li>
 </ul>
 </p>
 
