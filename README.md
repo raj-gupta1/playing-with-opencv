@@ -31,10 +31,10 @@ OPENCV BASICS AND MINI PROJECTS
 <p title= PHOTOSHOP FILTERS >
 <ul>
 <li>EMBROSS FILTER</li>
-<li>FILTER</li>
-<li>FILTER</li>
-<li>FILTERn</li>
-<li>FILTER</li>
+<li> 60s TV FILTER</li>
+<li> DUO TONE FILTER</li>
+<li> SEPIA FILTER</li>
+<li> BRIGHTNESS FILTER</li>
 </ul>
 </p>
 
